@@ -798,7 +798,7 @@ app.get('/', async (req, res) => {
         res.send(`
             <!DOCTYPE html>
             <html lang="en">
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>Live Sports - ALLSTREAMCC.COM</title>
@@ -1224,10 +1224,6 @@ app.get('/', async (req, res) => {
                     }
                 </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
             </head>
             <body>
                 <nav class="navbar">
@@ -1378,7 +1374,7 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
             return res.status(404).send(`
                 <!DOCTYPE html>
                 <html>
-                <head>
+                <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                     <title>No Streams Available</title>
                     <style>
                         body {
@@ -1414,10 +1410,7 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
                         }
                     </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+               
                 </head>
                 <body>
                     <div class="error-container">
@@ -2573,7 +2566,7 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
         const htmlResponse = `
             <!DOCTYPE html>
             <html lang="en">
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>${match.title} - ALLSTREAMCC.COM</title>
@@ -2929,10 +2922,7 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
                     ${chatCSS}
                 </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+             
             </head>
             <body>
                 <nav class="navbar">
@@ -3020,7 +3010,7 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
         res.status(500).send(`
             <!DOCTYPE html>
             <html>
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>Stream Error - ALLSTREAMCC.COM</title>
@@ -3071,10 +3061,6 @@ app.get('/watch-sport/:source/:id/:secondsource/:secondid/:thirdsource/:thirdid'
                     }
                 </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
             </head>
             <body>
                 <div class="error-container">
@@ -3121,7 +3107,7 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
             return res.status(404).send(`
                 <!DOCTYPE html>
                 <html>
-                <head>
+                <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                     <title>No Streams Available</title>
                     <style>
                         body {
@@ -3157,10 +3143,6 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
                         }
                     </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
                 </head>
                 <body>
                     <div class="error-container">
@@ -4288,7 +4270,7 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
         const htmlResponse = `
             <!DOCTYPE html>
             <html lang="en">
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>${match.title} - ALLSTREAMCC.COM</title>
@@ -4644,10 +4626,7 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
                     ${chatCSS}
                 </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+                
             </head>
             <body>
                 <nav class="navbar">
@@ -4745,7 +4724,7 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
         res.status(500).send(`
             <!DOCTYPE html>
             <html>
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>Stream Error - ALLSTREAMCC.COM</title>
@@ -4796,10 +4775,7 @@ app.get('/watch-sport/:source/:id', async (req, res) => {
                     }
                 </style>
 
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+          
             </head>
             <body>
                 <div class="error-container">
@@ -5048,7 +5024,7 @@ app.get('/sports/:sportId', async (req, res) => {
         res.send(`
             <!DOCTYPE html>
             <html lang="en">
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>${sport.name} - ALLSTREAMCC.COM</title>
@@ -5416,10 +5392,7 @@ app.get('/sports/:sportId', async (req, res) => {
                     }
                 </style>
                
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+               
             </head>
             <body>
                 <nav class="navbar">
@@ -5458,7 +5431,9 @@ app.get('/sports/:sportId', async (req, res) => {
         res.status(500).send(`
             <!DOCTYPE html>
             <html>
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
+
+
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>Error - ALLSTREAMCC.COM</title>
@@ -5522,7 +5497,7 @@ app.get('/admin/banned-users', (req, res) => {
         return res.status(401).send(`
             <!DOCTYPE html>
             <html>
-            <head>
+            <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
                 <title>Unauthorized - Admin Access</title>
                 <style>
                     body {
@@ -5569,10 +5544,7 @@ app.get('/admin/banned-users', (req, res) => {
                     }
                 </style>
               
-                <script
-                  type="text/javascript"
-                  src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-                ></script>
+              
 
             </head>
             <body>
@@ -5603,7 +5575,7 @@ app.get('/admin/banned-users', (req, res) => {
     const html = `
     <!DOCTYPE html>
     <html>
-    <head>
+    <head><script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script><script type="text/javascript">     aclib.runPop({         zoneId: '9675066',     }); </script>
         <title>Admin Panel - Banned Users</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
@@ -5700,10 +5672,7 @@ app.get('/admin/banned-users', (req, res) => {
             }
         </style>
 
-        <script
-          type="text/javascript"
-          src="https://pl28055385.effectivegatecpm.com/c6/d8/57/c6d857d6d0087430d0c9bd203d8b610d.js"
-        ></script>
+     
     </head>
     <body>
         <div class="container">
